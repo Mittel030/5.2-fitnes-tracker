@@ -1,0 +1,18 @@
+<?php
+// Example local configuration file for FitTrack
+// Copy this file to `config.local.php` and update values as needed. This
+// file is intended to be kept locally on each developer machine and not
+// committed to version control.
+
+// Example - override DB_HOST to point to the developer's MySQL host
+// define('DB_HOST', '192.168.1.50');
+// define('DB_USER', 'fittrack_user');
+// define('DB_PASS', 'fittrack2025');
+// define('DB_NAME', 'fittrack');
+
+// You can also keep root credentials locally while using a shared DB user
+// define('DB_USER', 'root');
+// define('DB_PASS', 'your_local_root_password');
+
+// Save as config.local.php after editing.
+?>

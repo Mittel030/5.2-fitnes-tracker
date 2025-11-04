@@ -1,0 +1,5 @@
+# Ignore local config that contains machine-specific DB credentials
+config.local.php
+
+# Ignore database dumps (optional)
+*.sql
